@@ -4,7 +4,7 @@ Objective: Build a country search and sort app using API calls. Implement search
 sort functionality for displaying country cards.
 Requirements:
 ● Technology: React JS
-● Duration: 2 days
+
 ● API: https://restcountries.com/v3.1/all
 Features:
 1. Create Four Pages with Corresponding Routes:
