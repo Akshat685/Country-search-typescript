@@ -1,9 +1,9 @@
 Task 2: Country Searching and Sorting
-with React JS
+with Typescript
 Objective: Build a country search and sort app using API calls. Implement search and
 sort functionality for displaying country cards.
 Requirements:
-● Technology: React JS
+● Technology: Typescript
 
 ● API: https://restcountries.com/v3.1/all
 Features:
